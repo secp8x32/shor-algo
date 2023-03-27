@@ -53,7 +53,7 @@ found g = 123654304 for r = 2, such that g^r = 1 mod N and coprime with N
 
 ```
 
-The program will generate two p and q 14-bit random primes (14-bit is choosen to keep run time lower) and calculate `N = p * q` and try to factor with `shor` algoritm and output the factors of the integer if they are found, or indicate that no factors were found. Note that the program may take a long time to run for large integers, as Shor's algorithm is known to be computationally intensive.
+The program will generate two p and q 14-bit random primes (14-bit is chosen to keep runtime lower) and calculate `N = p * q` and try to factor with `shor` algoritm and output the factors of the integer if they are found, or indicate that no factors were found. Note that the program may take a long time to run for large integers, as Shor's algorithm is known to be computationally intensive.
 
 Acknowledgments
 ---------------
