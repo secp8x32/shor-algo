@@ -1,7 +1,7 @@
 Shor's Algorithm
 ================
 
-This is a C++ implementation of Shor's algorithm, which is a quantum algorithm for factoring integers. The purpose of this project is to provide a way to experiment with Shor's algorithm and gain a better understanding of its workings.
+This is a C++ implementation of Shor's algorithm, which is a quantum algorithm for factoring integers. The purpose of this project is to experiment with Shor's algorithm and gain a better understanding of its workings.
 
 Getting Started
 ---------------
@@ -22,7 +22,7 @@ make
 This will compile the project and generate an executable file called `shor`. You can then run the executable with the following command:
 
 
-```bash
+```
 ./shor
 p = 16183 (14-bit prime)
 q = 12689 (14-bit prime)
